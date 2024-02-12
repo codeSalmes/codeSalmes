@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codeSalmes
 - 👀 I’m a Front-end Developer specializing in HTML, CSS, JS & JS Frameworks(React, Angular, next.js, node.js, vue.js and express,js)
 - 🌱 I’m currently learning data science and cloud computing
-- 💞️ I’m looking to collaborate on web and mobile projects
+- 💞️ I’m looking to collaborate on web and mobile development projects
 - 📫 How to reach me njerumlewis@gmail.com
 
 <!---
