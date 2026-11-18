@@ -1,4 +1,4 @@
-# Hi, I'm Lewis Nejruh (codeSalmes) 👋
+# Hi, I'm Lewis Njeruh (codeSalmes) 👋
 
 **IT Support Specialist · Hardware Tinkerer · DIY Builder · Video/Graphics Designer**
 
@@ -11,7 +11,7 @@ hardware / PCB / electrical domain.
 
 ## 🔧 What I Do
 
-- **IT Support & Troubleshooting** — Diagnosing hardware and software issues,
+- **IT Support & Troubleshooting** — Linux, Diagnosing hardware and software issues,
   and explaining technical concepts clearly to users.
 - **Hardware Builds & DIY Projects** — PCB design, soldering, embedded
   systems, prototyping, and repair.
@@ -26,9 +26,9 @@ hardware / PCB / electrical domain.
 | :--- | :--- |
 | **EDA / PCB** | KiCad, schematic capture, PCB layout, Gerber generation |
 | **Embedded** | Arduino, ESP32, STM32, basic firmware (C/C++) |
-| **Test & Repair** | Multimeter, oscilloscope, soldering, rework |
+| **Test & Repair** | Linux, Multimeter, oscilloscope, soldering, rework |
 | **Documentation** | Markdown, block diagrams, video walkthroughs |
-| **Design** | Video editing, graphic design, visual documentation |
+| **Design** | Video editing, graphic design, motion graphics |
 
 ---
 
